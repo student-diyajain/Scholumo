@@ -43,6 +43,14 @@
 - Secure "Place Order" functionality  
 
 ---
+## 📌 ER Diagram
+
+Here is the Entity–Relationship diagram of the project:
+
+![ER Diagram](docs/er-diagram.png)
+
+
+---
 
 ## 🧱 Project Architecture
 
